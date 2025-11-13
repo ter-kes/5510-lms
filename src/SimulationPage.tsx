@@ -185,7 +185,7 @@ export default function SimulationPage() {
       </div>
 
       <h1 style={{ marginBottom: 8 }}>
-        📊 Amortization (One-Off Payment Overrides)
+        📊 Amortization Table (One-Off Payment Overrides)
       </h1>
 
       <p style={{ color: "#555", marginTop: 0 }}>
