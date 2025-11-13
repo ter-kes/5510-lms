@@ -1,15 +1,24 @@
 {
+<<<<<<< HEAD
   "name": "loan-management-system",
+=======
+  "name": "my-react-app",
+>>>>>>> 9fbfd2d8ee64cdc468937dd8e8331345ec094bc7
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "build": "tsc -b && vite build",
+=======
+    "build": "vite build",
+>>>>>>> 9fbfd2d8ee64cdc468937dd8e8331345ec094bc7
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.9.6",
@@ -28,5 +37,21 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.3",
     "vite": "^7.2.2"
+=======
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "recharts": "^3.2.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.4",
+    "eslint": "^9.36.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.22",
+    "globals": "^16.4.0",
+    "vite": "^7.1.7"
+>>>>>>> 9fbfd2d8ee64cdc468937dd8e8331345ec094bc7
   }
 }
